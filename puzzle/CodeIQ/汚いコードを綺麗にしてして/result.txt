@@ -1,0 +1,38 @@
+テスト入力値 得られた出力値 実行速度 正誤
+
+l
+t="ma"
+zsemojfik="e"
+akgydnl="zwygqauye"
+t........="ma"
+zsemojfik="e"
+akgydnl..="zwygqauye"
+00.0秒 ○ 正解
+
+r
+t="ma"
+zsemojfik="e"
+akgydnl="zwygqauye"
+........t="ma"
+zsemojfik="e"
+..akgydnl="zwygqauye"
+00.0秒 ○ 正解
+
+l
+jlgxmswewp="hhas"
+nsddlyulz="wxibd"
+feam="iwxoc"
+jlgxmswewp="hhas"
+nsddlyulz.="wxibd"
+feam......="iwxoc"
+00.0秒 ○ 正解
+
+r
+jlgxmswewp="hhas"
+nsddlyulz="wxibd"
+feam="iwxoc"
+jlgxmswewp="hhas"
+.nsddlyulz="wxibd"
+......feam="iwxoc"
+00.0秒 ○ 正解
+
